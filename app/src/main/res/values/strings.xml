@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyAppServiceGoogle</string>
+    <string name="titre">Mon App avec Service Google</string>
+    <string name="latitud">Latitud</string>
+    <string name="altitud">Altitud</string>
+    <string name="chercher">Chercher</string>
+    <string name="dstoffset">dstOffset</string>
+    <string name="timezonename">TimeZoneName</string>
+    <string name="timezoneid">TimeZoneId</string>
+    <string name="rawoffset">RawOffset</string>
+    <string name="status">Status</string>
+</resources>
